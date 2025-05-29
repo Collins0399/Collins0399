@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Collins Kiprotich
 =========================================================================================================================================
 
-Full-Stack Developer| DevOps (CI/CD) | Postman API Testing | Web Development | Git & Github
+Software Developer| DevOps (CI/CD) | Postman API Testing | Web Development | Git & Github
 -------------------------------------------------------------------------------------------
 
 I am a Full-Stack Developer & DevOps Engineer with expertise in Spring Boot (backend), Angular (frontend), and PostgreSQL (database). I build scalable applications while integrating DevOps automation to streamline development and deployment. In DevOps, I create CI/CD pipelines using tools like GitHub, Jenkins, SonarQube, Docker, Terraform, Ansible, Kubernetes, and Grafana, ensuring smooth software delivery. I am also skilled in Postman API testing, efficiently testing and automating API workflows. With strong Git and GitHub expertise, I collaborate effectively on version-controlled projects. Additionally, I have experience in web development with JavaScript, HTML, CSS, and PHP, enabling me to develop dynamic and interactive websites.
