@@ -9,7 +9,7 @@ I am a Full-Stack Developer & DevOps Engineer with knowledge in both backend and
 *   🌍  With skills and knowledge in both software development and DevOps, I bridge the gap between coding and deployment, ensuring seamless integration and delivery.
 *   💼  Check out my portfolio: [https://react-portfolio-1dqk.vercel.app/](https://react-portfolio-1dqk.vercel.app/)
 *   ✉️  You can contact me at [kiprotichcollince34@gmail.com](mailto:kiprotichcollince34@gmail.com)
-*   🧠  I'm learning Currently,expanding my knowledge in Kubernetes, DevSecOps, and cloud-native solutions to further enhance my DevOps and full-stack capabilities. 🚀
+*   🧠  I'm learning Currently,expanding my knowledge in Kubernetes, DevSecOps, and cloud-native solutions to further enhance my DevOps and full-stack capabilities. 
 *   🤝  I'm open to collaborating on DevOps practices and coding projects to build efficient and scalable solutions!
 *   ⚡  🚀 Code fast, deploy faster, break less – That’s the DevOps promise!<a href="https://www.github.com/CollinsEz34" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/CollinsEz34?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
